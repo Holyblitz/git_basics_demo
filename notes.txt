@@ -1,1 +1,1 @@
-version 1: Bonjour git!
+version 2: ajout d'une nouvelle ligne.
